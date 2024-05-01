@@ -6,10 +6,10 @@
     color: #0000ff;
     font-size: 36px;
 }
-.odd#three{
+.odd.adjust-font-size{
     font-size: 24px;
 }
-#four{
+#four.adjust-font-size{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: 700;
